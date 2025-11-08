@@ -1,0 +1,5 @@
+{
+  "name": "Générateur de Notes d'Évolution Infirmières",
+  "description": "Un outil web intuitif pour aider le personnel infirmier à générer rapidement des notes d'évolution structurées, claires et complètes à partir d'observations cliniques. Saisissez les informations via des cases à cocher et des champs de texte, et l'application génère une note professionnelle prête à être copiée ou imprimée.",
+  "requestFramePermissions": []
+}
